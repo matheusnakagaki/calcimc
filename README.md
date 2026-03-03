@@ -29,7 +29,7 @@ Siga o passo-a-passo para configurar o ambiente:
 2. **Certifique-se de que o prompt-sync estão configurados:**
 
    ```bash
-   npm install prompt - sync @types / prompt - sync
+   npm install prompt-sync@types / prompt-sync
 
 3. **Execute a aplicação utilizando o ts-node:**
 
@@ -37,10 +37,6 @@ Siga o passo-a-passo para configurar o ambiente:
    npx ts-node src/imc.ts
 
 ## ⚙️ Executando os testes
-
-Explicar como executar os testes automatizados para este sistema.
-
-### 🔩 Analise os testes de ponta a ponta
 
 O sistema utiliza um menu iterativo que permite realizar múltiplas operações sem encerrar o programa.
 
